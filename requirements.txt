@@ -1,0 +1,6 @@
+pytest
+mypy
+autopep8
+flake8
+flake8-nb
+pre-commit
