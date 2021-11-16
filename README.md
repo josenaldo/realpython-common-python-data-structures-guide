@@ -3,6 +3,16 @@
 Esse repositório contém os exercícios e anotações do tutorial
 [Common Python Data Structures (Guide)](https://realpython.com/python-data-structures/), do site [Real Python](https://realpython.com/).
 
+Os notebooks podem ser lidos em qualquer ordem, mas se quiser seguir o tutorial, deve seguir a seguinte ordem:
+
+- [Dicionários, Mapas e Tabelas Hash](notebook/01-dicitionaries-maps-and-hash-tables.ipynb)
+- [Arrays](notebook/02-array-data-structures.ipynb)
+- [Registros, Estuturas e Objetos de Transferência de Dados](notebook/03-records-structs-and-data-transfer-objects.ipynb)
+- [Conjuntos e Multiconjuntos](notebook/04-sets-and-multisets.ipynb)
+- [Pilhas(Último a Entrar, Primeiro a Sair)](notebook/05-stack-lifo.ipynb)
+- [Filas(Primeiro a Entrar, Primeiro a Sair)](notebook/06-queue-fifo.ipynb)
+- [Filas de Prioridade](notebook/07-priority-queues.ipynb)
+
 ## Ferramentas usadas nesse repositótio
 
 ### Autopep8
